@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# <center>fxp 的 个人主页
 
-You can use the [editor on GitHub](https://github.com/spiralWS2/spiralWS2.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## 个人经历
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+05/2018 - 04/2020      访问学者，美国宾夕法尼亚大学材料科学与工程学院 
+​								   Ritesh Agarwal 教授课题组 
 
-### Markdown
+ 07/2017 - 12/2020      博士后，湖南省长沙市湖南大学材料科学与工程学院 
+                                   国家杰青潘安练教授课题组
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 09/2011 - 06/2017      硕博连读，湖南省长沙市湖南大学物理与微电子科学学院 
+                                   国家杰青潘安练教授课题组 
 
-```markdown
-Syntax highlighted code block
+ 09/2007- 06/2011      本科，山西省大同市山西大同大学化学与化工学院，
 
-# Header 1
-## Header 2
-### Header 3
+## 近期研究
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## 研究方向
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## 科研成果
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spiralWS2/spiralWS2.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Xiaopeng Fan, Zhurun Ji, Ruixiang Fei, Weihao Zheng, Wenjing Liu, Xiaoli Zhu, Shula  Chen, Li Yang, Hongjun Liu, Anlian Pan*, and Ritesh Agarwal*, “Mechanism of   Extreme Optical Nonlinearities in Spiral WS 2  above the Bandgap “, Nano Letters 2020  20,2667. 
+- xxxxxxxxxxxxx
+- 
 
-### Support or Contact
+## 参与项目
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+## 资料下载
+
